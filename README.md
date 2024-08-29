@@ -1,3 +1,3 @@
 #Kokoa Clone
 
-yay
+yay wow
